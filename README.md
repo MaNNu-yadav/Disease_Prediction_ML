@@ -60,25 +60,7 @@ This project is a disease prediction system that uses machine learning models to
 - Accuracy scores are provided for each model, and overall accuracy is determined by combining the model predictions.
 - Confusion matrices are used to visualize and understand the model performance better.
 
-## Usage
 
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/yourusername/disease-prediction-system.git
-    cd disease-prediction-system
-    ```
-
-2. **Install the required packages:**
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. **Run the script:**
-    ```sh
-    python disease_prediction.py
-    ```
-
-4. **Enter symptoms:**
     - The script will prompt you to enter symptoms separated by commas.
     - The system will then output the predicted disease along with individual predictions from each model.
 
